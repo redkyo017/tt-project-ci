@@ -3,3 +3,6 @@
 *.bak.yml
 .idea/
 .DS_Store
+
+/pkg/mod/*
+/pkg/sumdb/*
